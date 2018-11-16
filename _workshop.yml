@@ -1,0 +1,6 @@
+id: "devops"
+name: "DevOps Workshop with OpenShift"
+
+modules:
+  activate:
+  - manawa-advanced-workshop
